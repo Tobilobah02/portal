@@ -1,0 +1,46 @@
+.container {background-color:rgb(118, 115, 205);
+    font-size: small;
+    color:rgb(10, 10, 110);
+    font-size: large;
+    
+}
+
+.flex  {display: flex;
+justify-content:space-around;
+height: 150%
+}
+.links {
+padding-top: 20px;
+background-color: rgb(5, 15, 104);
+height: 50px;
+justify-items:center;
+}
+a {
+    font-size: 20px;
+    color: rgb(231, 239, 12);
+}
+h2{color: rgb(40, 38, 38);
+   text-align: center;
+}  
+.subpage{
+         background-color: darkgrey;
+         padding: 50px 1000px 20px 50px;
+
+}
+.form{background-color: white;
+      margin: 0px 20px 40px 0px;
+      padding: 10px 50px 50px 5px;
+}
+.grid-containerss {display:grid;
+    grid-template-columns: 33% 33% 33%;
+    background-color: black;
+    color: rgb(104, 104, 247);
+    justify-content: space-around;
+    font-size: 20px;
+    line-height: 50px;
+}
+
+
+
+
+     

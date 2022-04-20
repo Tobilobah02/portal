@@ -1,0 +1,68 @@
+ .container {background-color:rgb(118, 115, 205);
+             font-size: small;
+             color:rgb(10, 10, 110);
+             font-size: large;
+             
+ }
+
+ .flex  {
+      display: flex;
+      justify-content:space-around;
+      height: 150%;
+ }
+ .links {
+     padding-top: 20px;
+     background-color: rgb(5, 15, 104);
+     height: 50px;
+     justify-items:center;
+ }
+ a {
+     font-size: 20px;
+     color: rgb(231, 239, 12);
+ }
+ .grid-container {display:grid;
+           grid-template-columns: 40% 60%;
+           background-color:rgb(159, 184, 251); 
+           height: 100%;        
+                }
+strong  {
+    background-color:azure;
+    color: rgb(232, 247, 21);
+    font-size: larger;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+p {
+    color:blue;
+    font-size: large;
+    text-align: center;
+}
+ .grid-containers { display: grid;
+                text-align: center;
+                   grid-template-columns: 33% 33% 33%;
+                   background-color: white;
+                   vertical-align:left;
+                   color: blue;
+                   justify-content: space-around;
+ }
+ .h3  {color: yellow;
+    font-style: italic;
+    background-color: azure;
+ }
+ .grid-containerss {display: grid;
+                     grid-template-columns: 33% 33% 33%;
+                     background-color: black;
+                     color: rgb(104, 104, 247);
+                     justify-content: space-around;
+                     font-size: 20px;
+ }
+.h {font-size: larger;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:rgb(118, 115, 205);
+    text-align: center;
+    color: yellow;
+    height: 40px;
+
+}

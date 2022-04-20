@@ -1,0 +1,52 @@
+.container {background-color:rgb(118, 115, 205);
+    font-size: small;
+    color:rgb(10, 10, 110);
+    font-size: large;
+    
+}
+
+.flex  {
+display: flex;
+justify-content:space-around;
+height: 150%;
+}.links {
+    padding-top: 20px;
+    background-color: rgb(5, 15, 104);
+    height: 50px;
+    justify-items:center;
+}
+a {
+    font-size: 20px;
+    color: rgb(231, 239, 12);
+}
+.h2 {
+    margin-left: 20px;
+    color: black;
+}
+.group {background-color: darkgrey;
+             padding:10px 5px 0.02px 35px;
+
+}
+
+.h {
+    width:30;
+    padding: left 15px;
+    display:center;
+    color: rgb(86, 86, 203);
+    background-color:white;
+    margin: 0% 5px 50px 100px;
+    padding: 5px 5px 5px 5px ;
+    border-style:hidden;
+    
+}
+
+.grid-containerss {display:grid;
+    grid-template-columns: 33% 33% 33%;
+    background-color: black;
+    color: rgb(104, 104, 247);
+    justify-content: space-around;
+    font-size: 20px;
+}
+
+
+
